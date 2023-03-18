@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 * 👂 My name is Zeynep
-- 🔭 I’m currently working on Machine Learning, Deep Learning, Data
+- 🔭 I’m currently working on Machine Learning, Deep Learning, Data Science
 - 🌱 I’m currently learning Neural Networks
 - 📫 How to reach me: zynpaft19@gmail.com
 
