@@ -13,12 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<img align="right" height="200" src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif"/>
+
 * 👂 My name is Zeynep
 - 🔭 I’m currently working on Machine Learning, Deep Learning, Data Science
 - 🌱 I’m currently learning Neural Networks
 - 📫 How to reach me: zynpaft19@gmail.com
+<br clear="right"/>
 
-<img height="300" src="https://media.giphy.com/media/SvckSy7fFviqrq8ClF/giphy.gif"/>
+
+
+
+
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
